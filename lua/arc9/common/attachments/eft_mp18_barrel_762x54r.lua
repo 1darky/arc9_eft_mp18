@@ -1,6 +1,6 @@
 ATT.PrintName = "MP-18 7.62x54R 600mm barrel"
 ATT.CompactName = "MP18 600mm"
-ATT.Icon = Material("entities/eft_57_attachments/barrel.png", "mips smooth")
+ATT.Icon = Material("entities/eft_mp18_attachments/noicon.png", "mips smooth")
 ATT.Description = [[A standard factory-produced 600mm barrel with a front sight for MP-18 7.62x54R hunting rifles.]]
 
 ATT.SortOrder = 0

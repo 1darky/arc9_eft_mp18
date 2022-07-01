@@ -1,6 +1,6 @@
 ATT.PrintName = "MP-18 sight mount"
 ATT.CompactName = "MP18 RIS"
-ATT.Icon = Material("entities/eft_57_attachments/barrel.png", "mips smooth")
+ATT.Icon = Material("entities/eft_mp18_attachments/noicon.png", "mips smooth")
 ATT.Description = [[A RIS sight mount for the MP-18 rifles.]]
 
 ATT.SortOrder = 0

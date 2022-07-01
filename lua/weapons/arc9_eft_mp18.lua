@@ -69,10 +69,8 @@ SWEP.DropMagazineSounds = {
 SWEP.DropMagazineAmount = 0 -- Amount of mags to drop.
 SWEP.DropMagazineTime = 0
 
-SWEP.Overheat = true
-SWEP.HeatCapacity = 80
-SWEP.HeatDissipation = 6
-SWEP.HeatLockout = false
+SWEP.Overheat = false
+
 -------------------------- FIREMODES
 
 SWEP.RPM = 900
